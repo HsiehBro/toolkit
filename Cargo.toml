@@ -1,0 +1,9 @@
+[package]
+name = "excel_compare"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+calamine = "0.26.1"
+indexmap = "=2.8.0"
+xlsxwriter = "0.6.1"
